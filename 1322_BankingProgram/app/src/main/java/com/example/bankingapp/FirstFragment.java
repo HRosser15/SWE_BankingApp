@@ -1,5 +1,6 @@
 package com.example.bankingapp;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -36,6 +37,7 @@ public class FirstFragment extends Fragment {
                         .navigate(R.id.action_FirstFragment_to_SecondFragment);
             }
         });
+        binding.buttonFirst.setText("Log In");
     }
 
     @Override
