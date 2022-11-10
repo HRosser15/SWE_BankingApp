@@ -19,5 +19,3 @@ There are a bunch of youtube videos that go over the basics, I recommend finding
 6. Determine which programs we will use to auto-test the application
 
 7. Perform Tests
-
-test //testing my git 
